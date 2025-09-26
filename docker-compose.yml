@@ -10,7 +10,10 @@ services:
     restart: always
     networks:
       - mysql_net
+      - npm-network
 
 networks:
   mysql_net:
+    external: true
+  npm-network:
     external: true
