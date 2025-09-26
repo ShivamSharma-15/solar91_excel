@@ -7,6 +7,7 @@ const {
 } = require("../../util/dailyEnergyUtils/filteringData");
 const {
   getStructuredTimeStampsForDailyEnergyInverter,
+  getCurrentDateIST,
 } = require("../../util/dailyEnergyUtils/timestampManager");
 const { readJsonFromFile } = require("../../util/jsonEditor");
 const { getPreviousDate } = require("../../util/meterDataUtil/dateHelper");
