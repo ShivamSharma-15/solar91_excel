@@ -1,0 +1,3758 @@
+[
+  [
+    { "columnName": "Date", "value": "2025-08-02" },
+    { "columnName": "9 Sungrow320kW", "value": 1316.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 9", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 9",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "7 Sungrow320kW", "value": 1349.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 7", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 7",
+      "value": 3.69,
+      "section": "Inverter"
+    },
+    { "columnName": "3 Sungrow320kW", "value": 1371.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 3", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 3",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "1 Sungrow320kW", "value": 1361.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 1", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 1",
+      "value": 3.57,
+      "section": "Inverter"
+    },
+    { "columnName": "4 Sungrow320kW", "value": 1387.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 4", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 4",
+      "value": 3.64,
+      "section": "Inverter"
+    },
+    { "columnName": "8 Sungrow320kW", "value": 1312.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 8", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 8",
+      "value": 3.58,
+      "section": "Inverter"
+    },
+    { "columnName": "5 Sungrow320kW", "value": 1338.9, "section": "Inverter" },
+    { "columnName": "DC Capacity 5", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 5",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "6 Sungrow320kW", "value": 1339.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 6", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 6",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "2  Sungrow320kW", "value": 1386.4, "section": "Inverter" },
+    { "columnName": "DC Capacity 2", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 2",
+      "value": 3.63,
+      "section": "Inverter"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 555.97,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 6540,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.37,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 6480,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 8.94,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.64,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 556.17,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 6540,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.31,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 6480,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 8.96,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.74,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 60,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 555.92,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 6540,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.3,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 6480,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.06,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.8,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 60,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 26658158,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 315720000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -315720000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    }
+  ],
+  [
+    { "columnName": "Date", "value": "2025-08-02" },
+    { "columnName": "9 Sungrow320kW", "value": 1316.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 9", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 9",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "7 Sungrow320kW", "value": 1349.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 7", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 7",
+      "value": 3.69,
+      "section": "Inverter"
+    },
+    { "columnName": "3 Sungrow320kW", "value": 1371.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 3", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 3",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "1 Sungrow320kW", "value": 1361.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 1", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 1",
+      "value": 3.57,
+      "section": "Inverter"
+    },
+    { "columnName": "4 Sungrow320kW", "value": 1387.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 4", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 4",
+      "value": 3.64,
+      "section": "Inverter"
+    },
+    { "columnName": "8 Sungrow320kW", "value": 1312.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 8", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 8",
+      "value": 3.58,
+      "section": "Inverter"
+    },
+    { "columnName": "5 Sungrow320kW", "value": 1338.9, "section": "Inverter" },
+    { "columnName": "DC Capacity 5", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 5",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "6 Sungrow320kW", "value": 1339.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 6", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 6",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "2  Sungrow320kW", "value": 1386.4, "section": "Inverter" },
+    { "columnName": "DC Capacity 2", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 2",
+      "value": 3.63,
+      "section": "Inverter"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 26756264,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558.19,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12120,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.32,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12060,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.82,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 557.95,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.31,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.1,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.88,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.38,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 8.98,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.73,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 540,
+      "sectionName": "13 Standby"
+    }
+  ],
+  [
+    { "columnName": "Date", "value": "2025-08-02" },
+    { "columnName": "9 Sungrow320kW", "value": 1316.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 9", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 9",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "7 Sungrow320kW", "value": 1349.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 7", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 7",
+      "value": 3.69,
+      "section": "Inverter"
+    },
+    { "columnName": "3 Sungrow320kW", "value": 1371.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 3", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 3",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "1 Sungrow320kW", "value": 1361.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 1", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 1",
+      "value": 3.57,
+      "section": "Inverter"
+    },
+    { "columnName": "4 Sungrow320kW", "value": 1387.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 4", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 4",
+      "value": 3.64,
+      "section": "Inverter"
+    },
+    { "columnName": "8 Sungrow320kW", "value": 1312.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 8", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 8",
+      "value": 3.58,
+      "section": "Inverter"
+    },
+    { "columnName": "5 Sungrow320kW", "value": 1338.9, "section": "Inverter" },
+    { "columnName": "DC Capacity 5", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 5",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "6 Sungrow320kW", "value": 1339.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 6", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 6",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "2  Sungrow320kW", "value": 1386.4, "section": "Inverter" },
+    { "columnName": "DC Capacity 2", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 2",
+      "value": 3.63,
+      "section": "Inverter"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 26756264,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558.19,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12120,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.32,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12060,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.82,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 557.95,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.31,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.1,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.88,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.38,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 8.98,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.73,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 540,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 26910844,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 927480000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -927480000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 561.39,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 19200,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.33,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 19140,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.04,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.99,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 1020,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 561.14,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 19140,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.31,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 0, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 19140,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.14,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.05,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 1020,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 561.19,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 19140,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.39,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 19080,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.02,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.9,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 1020,
+      "sectionName": "13 Standby"
+    }
+  ],
+  [
+    { "columnName": "Date", "value": "2025-08-02" },
+    { "columnName": "9 Sungrow320kW", "value": 1316.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 9", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 9",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "7 Sungrow320kW", "value": 1349.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 7", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 7",
+      "value": 3.69,
+      "section": "Inverter"
+    },
+    { "columnName": "3 Sungrow320kW", "value": 1371.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 3", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 3",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "1 Sungrow320kW", "value": 1361.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 1", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 1",
+      "value": 3.57,
+      "section": "Inverter"
+    },
+    { "columnName": "4 Sungrow320kW", "value": 1387.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 4", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 4",
+      "value": 3.64,
+      "section": "Inverter"
+    },
+    { "columnName": "8 Sungrow320kW", "value": 1312.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 8", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 8",
+      "value": 3.58,
+      "section": "Inverter"
+    },
+    { "columnName": "5 Sungrow320kW", "value": 1338.9, "section": "Inverter" },
+    { "columnName": "DC Capacity 5", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 5",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "6 Sungrow320kW", "value": 1339.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 6", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 6",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "2  Sungrow320kW", "value": 1386.4, "section": "Inverter" },
+    { "columnName": "DC Capacity 2", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 2",
+      "value": 3.63,
+      "section": "Inverter"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 26756264,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558.19,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12120,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.32,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12060,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.82,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 557.95,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.31,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.1,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.88,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.38,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 8.98,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.73,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 540,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 27040564,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 778320000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -778320000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 564.07,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 16080,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.34,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 16020,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.08,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.11,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 720,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 563.83,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 16140,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.32,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 16080,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.18,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.16,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 660,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 563.88,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 16140,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.4,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 16080,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.06,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.01,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 660,
+      "sectionName": "13 Standby"
+    }
+  ],
+  [
+    { "columnName": "Date", "value": "2025-08-02" },
+    { "columnName": "9 Sungrow320kW", "value": 1316.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 9", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 9",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "7 Sungrow320kW", "value": 1349.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 7", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 7",
+      "value": 3.69,
+      "section": "Inverter"
+    },
+    { "columnName": "3 Sungrow320kW", "value": 1371.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 3", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 3",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "1 Sungrow320kW", "value": 1361.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 1", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 1",
+      "value": 3.57,
+      "section": "Inverter"
+    },
+    { "columnName": "4 Sungrow320kW", "value": 1387.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 4", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 4",
+      "value": 3.64,
+      "section": "Inverter"
+    },
+    { "columnName": "8 Sungrow320kW", "value": 1312.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 8", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 8",
+      "value": 3.58,
+      "section": "Inverter"
+    },
+    { "columnName": "5 Sungrow320kW", "value": 1338.9, "section": "Inverter" },
+    { "columnName": "DC Capacity 5", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 5",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "6 Sungrow320kW", "value": 1339.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 6", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 6",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "2  Sungrow320kW", "value": 1386.4, "section": "Inverter" },
+    { "columnName": "DC Capacity 2", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 2",
+      "value": 3.63,
+      "section": "Inverter"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 26756264,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558.19,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12120,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.32,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12060,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.82,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 557.95,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.31,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.1,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.88,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.38,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 8.98,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.73,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 540,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 27188342,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 886668000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -886668000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 567.13,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 18360,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.35,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 18300,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.13,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 300,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.26,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 900,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 566.87,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 18240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.33,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 18180,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.22,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.32,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 960,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 566.93,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 18300,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.4,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 0,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 18300,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.1,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.17,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 960,
+      "sectionName": "13 Standby"
+    }
+  ],
+  [
+    { "columnName": "Date", "value": "2025-08-02" },
+    { "columnName": "9 Sungrow320kW", "value": 1316.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 9", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 9",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "7 Sungrow320kW", "value": 1349.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 7", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 7",
+      "value": 3.69,
+      "section": "Inverter"
+    },
+    { "columnName": "3 Sungrow320kW", "value": 1371.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 3", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 3",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "1 Sungrow320kW", "value": 1361.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 1", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 1",
+      "value": 3.57,
+      "section": "Inverter"
+    },
+    { "columnName": "4 Sungrow320kW", "value": 1387.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 4", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 4",
+      "value": 3.64,
+      "section": "Inverter"
+    },
+    { "columnName": "8 Sungrow320kW", "value": 1312.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 8", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 8",
+      "value": 3.58,
+      "section": "Inverter"
+    },
+    { "columnName": "5 Sungrow320kW", "value": 1338.9, "section": "Inverter" },
+    { "columnName": "DC Capacity 5", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 5",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "6 Sungrow320kW", "value": 1339.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 6", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 6",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "2  Sungrow320kW", "value": 1386.4, "section": "Inverter" },
+    { "columnName": "DC Capacity 2", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 2",
+      "value": 3.63,
+      "section": "Inverter"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 26756264,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558.19,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12120,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.32,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12060,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.82,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 557.95,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.31,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.1,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.88,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.38,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 8.98,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.73,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 540,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 27326232,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 827340000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -827340000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 569.99,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 17160,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.35,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 0, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 17160,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.17,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.39,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 780,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 569.73,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 17160,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.34,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 17100,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.26,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.45,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 780,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 569.78,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 17100,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.41,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 17040,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.14,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.3,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 780,
+      "sectionName": "13 Standby"
+    }
+  ],
+  [
+    { "columnName": "Date", "value": "2025-08-02" },
+    { "columnName": "9 Sungrow320kW", "value": 1316.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 9", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 9",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "7 Sungrow320kW", "value": 1349.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 7", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 7",
+      "value": 3.69,
+      "section": "Inverter"
+    },
+    { "columnName": "3 Sungrow320kW", "value": 1371.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 3", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 3",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "1 Sungrow320kW", "value": 1361.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 1", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 1",
+      "value": 3.57,
+      "section": "Inverter"
+    },
+    { "columnName": "4 Sungrow320kW", "value": 1387.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 4", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 4",
+      "value": 3.64,
+      "section": "Inverter"
+    },
+    { "columnName": "8 Sungrow320kW", "value": 1312.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 8", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 8",
+      "value": 3.58,
+      "section": "Inverter"
+    },
+    { "columnName": "5 Sungrow320kW", "value": 1338.9, "section": "Inverter" },
+    { "columnName": "DC Capacity 5", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 5",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "6 Sungrow320kW", "value": 1339.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 6", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 6",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "2  Sungrow320kW", "value": 1386.4, "section": "Inverter" },
+    { "columnName": "DC Capacity 2", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 2",
+      "value": 3.63,
+      "section": "Inverter"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 26756264,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558.19,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12120,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.32,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12060,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.82,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 557.95,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.31,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.1,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.88,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.38,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 8.98,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.73,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 540,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 27467066,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 845004000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -845004000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 572.89,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 17400,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.36,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 17340,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.21,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.54,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 900,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 572.63,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 17400,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.35,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 17340,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.3,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.59,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 840,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 572.69,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 17460,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.42,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 17400,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.18,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.44,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 840,
+      "sectionName": "13 Standby"
+    }
+  ],
+  [
+    { "columnName": "Date", "value": "2025-08-02" },
+    { "columnName": "9 Sungrow320kW", "value": 1316.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 9", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 9",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "7 Sungrow320kW", "value": 1349.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 7", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 7",
+      "value": 3.69,
+      "section": "Inverter"
+    },
+    { "columnName": "3 Sungrow320kW", "value": 1371.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 3", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 3",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "1 Sungrow320kW", "value": 1361.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 1", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 1",
+      "value": 3.57,
+      "section": "Inverter"
+    },
+    { "columnName": "4 Sungrow320kW", "value": 1387.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 4", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 4",
+      "value": 3.64,
+      "section": "Inverter"
+    },
+    { "columnName": "8 Sungrow320kW", "value": 1312.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 8", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 8",
+      "value": 3.58,
+      "section": "Inverter"
+    },
+    { "columnName": "5 Sungrow320kW", "value": 1338.9, "section": "Inverter" },
+    { "columnName": "DC Capacity 5", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 5",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "6 Sungrow320kW", "value": 1339.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 6", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 6",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "2  Sungrow320kW", "value": 1386.4, "section": "Inverter" },
+    { "columnName": "DC Capacity 2", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 2",
+      "value": 3.63,
+      "section": "Inverter"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 26756264,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558.19,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12120,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.32,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12060,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.82,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 557.95,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.31,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.1,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.88,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.38,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 8.98,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.73,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 540,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 27618146,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 906480000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -906480000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 576.02,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 18780,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.37,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 18720,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.25,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.71,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 1020,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 575.76,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 18780,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.36,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 18720,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.35,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 300,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.76,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 1020,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 575.81,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 18720,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.43,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 18660,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.23,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 300,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.61,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 1020,
+      "sectionName": "13 Standby"
+    }
+  ],
+  [
+    { "columnName": "Date", "value": "2025-08-02" },
+    { "columnName": "9 Sungrow320kW", "value": 1316.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 9", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 9",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "7 Sungrow320kW", "value": 1349.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 7", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 7",
+      "value": 3.69,
+      "section": "Inverter"
+    },
+    { "columnName": "3 Sungrow320kW", "value": 1371.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 3", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 3",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "1 Sungrow320kW", "value": 1361.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 1", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 1",
+      "value": 3.57,
+      "section": "Inverter"
+    },
+    { "columnName": "4 Sungrow320kW", "value": 1387.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 4", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 4",
+      "value": 3.64,
+      "section": "Inverter"
+    },
+    { "columnName": "8 Sungrow320kW", "value": 1312.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 8", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 8",
+      "value": 3.58,
+      "section": "Inverter"
+    },
+    { "columnName": "5 Sungrow320kW", "value": 1338.9, "section": "Inverter" },
+    { "columnName": "DC Capacity 5", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 5",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "6 Sungrow320kW", "value": 1339.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 6", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 6",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "2  Sungrow320kW", "value": 1386.4, "section": "Inverter" },
+    { "columnName": "DC Capacity 2", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 2",
+      "value": 3.63,
+      "section": "Inverter"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 26756264,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558.19,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12120,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.32,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12060,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.82,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 557.95,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.31,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.1,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.88,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.38,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 8.98,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.73,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 540,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 27746276,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 768780000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -768780000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 578.66,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 15840,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.38,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 15780,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.29,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.84,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 780,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 578.4,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 15840,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.37,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 15780,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.39,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.89,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 780,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 578.46,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 15900,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.44,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 15840,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.27,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.74,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 780,
+      "sectionName": "13 Standby"
+    }
+  ],
+  [
+    { "columnName": "Date", "value": "2025-08-02" },
+    { "columnName": "9 Sungrow320kW", "value": 1316.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 9", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 9",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "7 Sungrow320kW", "value": 1349.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 7", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 7",
+      "value": 3.69,
+      "section": "Inverter"
+    },
+    { "columnName": "3 Sungrow320kW", "value": 1371.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 3", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 3",
+      "value": 3.6,
+      "section": "Inverter"
+    },
+    { "columnName": "1 Sungrow320kW", "value": 1361.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 1", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 1",
+      "value": 3.57,
+      "section": "Inverter"
+    },
+    { "columnName": "4 Sungrow320kW", "value": 1387.7, "section": "Inverter" },
+    { "columnName": "DC Capacity 4", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 4",
+      "value": 3.64,
+      "section": "Inverter"
+    },
+    { "columnName": "8 Sungrow320kW", "value": 1312.6, "section": "Inverter" },
+    { "columnName": "DC Capacity 8", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 8",
+      "value": 3.58,
+      "section": "Inverter"
+    },
+    { "columnName": "5 Sungrow320kW", "value": 1338.9, "section": "Inverter" },
+    { "columnName": "DC Capacity 5", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 5",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "6 Sungrow320kW", "value": 1339.8, "section": "Inverter" },
+    { "columnName": "DC Capacity 6", "value": 366.24, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 6",
+      "value": 3.66,
+      "section": "Inverter"
+    },
+    { "columnName": "2  Sungrow320kW", "value": 1386.4, "section": "Inverter" },
+    { "columnName": "DC Capacity 2", "value": 381.5, "section": "Inverter" },
+    {
+      "columnName": "Generation Per kW 2",
+      "value": 3.63,
+      "section": "Inverter"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 26756264,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -588636000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558.19,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12120,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.32,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12060,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.82,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 557.95,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.31,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.1,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.88,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 480,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 558,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 12180,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.38,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 12120,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 8.98,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 29.73,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 540,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 27896738,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 902772000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": -902772000,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": -2147483648.648,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 0,
+      "sectionName": "10 Schi EM6436H"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 581.78,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 18720,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.39,
+      "sectionName": "12 Check"
+    },
+    { "conlumnName": "Net Import KWH", "value": 60, "sectionName": "12 Check" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 18660,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.34,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 300,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.98,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 840,
+      "sectionName": "12 Check"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 581.51,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 18660,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.37,
+      "sectionName": "11 Main"
+    },
+    { "conlumnName": "Net Import KWH", "value": 0, "sectionName": "11 Main" },
+    {
+      "conlumnName": "Net Generation",
+      "value": 18660,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.43,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 31.04,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 900,
+      "sectionName": "11 Main"
+    },
+    {
+      "conlumnName": "Total AC Active Export Energy",
+      "value": 581.56,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Main Net Export KWH",
+      "value": 18600,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Active Import Energy",
+      "value": 5.45,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import KWH",
+      "value": 60,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Generation",
+      "value": 18540,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Export Energy",
+      "value": 9.31,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Export (kVArh)",
+      "value": 240,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Total AC Reactive Import Energy",
+      "value": 30.88,
+      "sectionName": "13 Standby"
+    },
+    {
+      "conlumnName": "Net Import (kVArh)",
+      "value": 840,
+      "sectionName": "13 Standby"
+    }
+  ]
+]

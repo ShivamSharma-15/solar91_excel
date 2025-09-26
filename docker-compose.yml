@@ -1,0 +1,16 @@
+services:
+  solar_91_excel:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: solar_91_excel
+    working_dir: /app
+    env_file:
+      - ./.env
+    restart: always
+    networks:
+      - mysql_net
+
+networks:
+  mysql_net:
+    external: true
