@@ -6,10 +6,10 @@ const { getSitePassKeyLogic } = require("./siteService");
 const { getSiteUnitsLogic } = require("./unitService");
 async function logicPower() {
   let bigData = [];
+  console.log("Starting Logic Power Data Fetch");
   const sites = await getSiteLogicPower();
   for (let i = 0; i < sites.length; i++) {
     let siteParamAddition = await getSitePassKeyLogic(sites[i]);
-    console.log(siteParamAddition);
     // sites[i].pass_key = "X2DceJw38eLCDMBDMODeA==";
     // sites[i].plant_code = "202KM";
     sites[i].pass_key = siteParamAddition.PASS_KEY;
@@ -37,17 +37,25 @@ function calcTotalInverter(inverters) {
     columnName: "Total AC Active Export Energy",
     section: "Inverter",
   };
-  let totalValue = 0;
-  for (let i = 0; i < inverters.length; i++) {
-    if (inverters[i].columnName === "Date") {
-      continue;
-    } else {
-      totalValue += inverters[i].value;
+
+  const totalValue = (inverters ?? []).reduce((sum, item) => {
+    if (!item) return sum;
+
+    const name = String(item.columnName ?? "").trim();
+    const valueNum = Number(item.value);
+
+    // Match: starts with "inv-" (case-insensitive). e.g., "INV-1", "Inv-MPPT", "inv-"
+    const isInv = /^inv-/.test(name.toLowerCase());
+
+    if (isInv && Number.isFinite(valueNum)) {
+      return sum + valueNum;
     }
-  }
-  total.value = totalValue;
-  return total;
+    return sum;
+  }, 0);
+
+  return { ...total, value: totalValue };
 }
+
 function seperateInverters(units) {
   const inverters = [];
   for (let i = 0; i < units.length; i++) {

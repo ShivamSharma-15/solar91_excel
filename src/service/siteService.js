@@ -6,34 +6,38 @@ const axios = require("axios");
 require("dotenv").config();
 
 async function manageSiteLogic() {
-  const sites = await getSiteKeysModel();
-  if (!sites || sites.length === 0) {
-    return false;
-  }
-  const freshSitesData = await getFreshSites();
-
-  if (!freshSitesData || freshSitesData.length === 0) {
-    return false;
-  } else {
-    let dataConsensus = compareSitesData(freshSitesData, sites);
-    if (dataConsensus.removed.length !== 0) {
-      if (process.env.SITE_FLAG !== "1") {
-        await removeSiteModel(dataConsensus.removed);
-      }
+  try {
+    const sites = await getSiteKeysModel();
+    if (!sites || sites.length === 0) {
+      return false;
     }
-    if (dataConsensus.added.length !== 0) {
-      if (process.env.SITE_FLAG !== "1") {
-        for (let i = 0; i < dataConsensus.added.length; i++) {
-          await addNewSiteModel(
-            dataConsensus.added[i].site_key,
-            dataConsensus.added[i].site_name
-          );
+    const freshSitesData = await getFreshSites();
+
+    if (!freshSitesData || freshSitesData.length === 0) {
+      return false;
+    } else {
+      let dataConsensus = compareSitesData(freshSitesData, sites);
+      if (dataConsensus.removed.length !== 0) {
+        if (process.env.SITE_FLAG !== "1") {
+          await removeSiteModel(dataConsensus.removed);
+        }
+      }
+      if (dataConsensus.added.length !== 0) {
+        if (process.env.SITE_FLAG !== "1") {
+          for (let i = 0; i < dataConsensus.added.length; i++) {
+            await addNewSiteModel(
+              dataConsensus.added[i].site_key,
+              dataConsensus.added[i].site_name
+            );
+          }
         }
       }
     }
+    const freshSites = await getSiteKeysModel();
+    return freshSites;
+  } catch (error) {
+    console.error("Error fetching site data:", error.message);
   }
-  const freshSites = await getSiteKeysModel();
-  return freshSites;
 }
 
 async function getFreshSites() {

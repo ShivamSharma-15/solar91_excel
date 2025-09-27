@@ -1,6 +1,4 @@
 const axios = require("axios");
-const { saveJsonToFile } = require("../../util/jsonEditor");
-const { getExcelReadyExtrasDataPR } = require("../extras/excelReadyExtrasData");
 async function handleMeterLogic(meters, site) {
   const meterData = [];
   for (let i = 0; i < meters.length; i++) {
@@ -44,11 +42,14 @@ async function handleMeterLogic(meters, site) {
       if (latestData.SLOT) {
         delete latestData.SLOT;
       }
+      if (latestData.Time) {
+        delete latestData.Time;
+      }
       const keys = Object.keys(latestData);
       for (let j = 0; j < keys.length; j++) {
         const paramData = {
           columnName: keys[j],
-          value: [latestData[keys[j]]],
+          value: latestData[keys[j]],
           section: meters[i].NAME,
         };
         meterData.push(paramData);
